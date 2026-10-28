@@ -85,5 +85,6 @@ I'm interested in opportunities where I can combine technical implementation wit
 ## Contact
 
 **GitHub:** [github.com/ballout037-pixel](https://github.com/ballout037-pixel)
+**LinkedIn:** [Connect with me]https://www.linkedin.com/in/ahmad-ballout-1956b91b3
 
 *Projects are portfolio demonstrations using sample data. AI-assisted development tools were used during development; project descriptions identify the implemented functionality and its current limitations.*
